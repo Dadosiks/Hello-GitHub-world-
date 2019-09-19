@@ -1,2 +1,4 @@
 # Hello-GitHub-world-
-First repository ;)
+print('First repository')
+that a python!
+Sorry, but I only know Python3 and my beauty girl
